@@ -1,6 +1,7 @@
 # Calendario Mesoamericano
 
-Un script en Python 3 para obtener la fecha del calendario mesiamericano a partir de la fecha gregoriana...
+Un script en Python 3 para obtener la fecha del calendario mesiamericano a partir de la fecha gregoriana,
+basado en las instrucciones de Alfonso Caso en el libro "Los calendarios prehispanicos".
 
 
 
@@ -27,7 +28,8 @@ Ejemplo:
 
 # Mesoamerican calendar
 
-A Python script for Date transformation from Gregorian calendar to Mesoamerican calendar...
+A Python script for Date transformation from Gregorian calendar to Mesoamerican calendar,
+based on instructions bz Alfonso Caso in the book "Los calendarios prehispanicos" ("The prehispanic calendars").
 
 INSTRUCTIONS:
 
