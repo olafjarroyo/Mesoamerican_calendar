@@ -25,7 +25,7 @@ Ejemplo:
                       Año:  9 Calli
 
 
-# Mesoamerican_calendar
+# Mesoamerican calendar
 
 A Python script for Date transformation from Gregorian calendar to Mesoamerican calendar...
 
