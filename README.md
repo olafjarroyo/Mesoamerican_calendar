@@ -1,5 +1,4 @@
-## Calendario Mesoamericano
-# Mesoamerican_calendar
+# Calendario Mesoamericano
 
 Un script en Python 3 para obtener la fecha del calendario mesiamericano a partir de la fecha gregoriana...
 
@@ -26,8 +25,7 @@ Ejemplo:
                       Año:  9 Calli
 
 
-
-
+# Mesoamerican_calendar
 
 A Python script for Date transformation from Gregorian calendar to Mesoamerican calendar...
 
